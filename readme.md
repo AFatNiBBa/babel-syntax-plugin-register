@@ -7,7 +7,7 @@ Hacks the `@babel/parser` module to allow the registration of custom syntax plug
 > ```
 
 ## Warning
-This module modifies the source code of `@babel/parser`, so ensure that this loads before you require it
+This module modifies the source code of `@babel/parser`, so ensure that this loads before you require `@babel/core`
 
 ## Usage
 ```js
