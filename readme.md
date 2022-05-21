@@ -39,4 +39,4 @@ module.exports = function () {
 For infos on how you can do a syntax plugin:
 - Go to the file `node_modules/@babel/parser/lib/index.js`
 - View [this](https://medium.com/@jacobp100/adding-custom-syntax-to-babel-e1a1315c6a90) article, keep in mind the API is changed since
-- Look how I did it [here](https://github.com/AFatNiBBa/babel-plugin-syntax-no-parens)
+- Look how I did it [here](https://github.com/AFatNiBBa/babel-plugin-syntax-no-paren)
