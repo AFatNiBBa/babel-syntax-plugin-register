@@ -1,0 +1,31 @@
+{
+  "name": "register-babel-syntax",
+  "version": "1.0.0",
+  "description": "Hacks the '@babel/parser' module to allow the registration of custom syntax plugins",
+  "main": "main.js",
+  "scripts": {
+    "save": "npm publish & push"
+  },
+  "keywords": [
+    "babel",
+    "modules",
+    "transpile",
+    "transpiler",
+    "babel-core",
+    "syntax",
+    "plugin",
+    "compiler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AFatNiBBa/register-babel-syntax"
+  },
+  "author": "AFatNiBBa",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.18.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0"
+  }
+}
