@@ -1,6 +1,6 @@
 {
   "name": "register-babel-syntax",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "Hacks the '@babel/parser' module to allow the registration of custom syntax plugins",
   "main": "src/main.js",
   "scripts": {
@@ -24,8 +24,5 @@
   "license": "ISC",
   "dependencies": {
     "@babel/parser": "^7.18.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.18.0"
   }
 }
